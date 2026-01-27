@@ -1,2 +1,2 @@
 # IPS
-Indoor Positioning System (IPS) via WiFi Fingerprinting &amp; Random Forest
+Indoor Positioning System (IPS) via WiFi Fingerprinting and Random Forest
