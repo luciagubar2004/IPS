@@ -1,5 +1,3 @@
-# IPS
-Indoor Positioning System (IPS) via WiFi Fingerprinting and Random Forest
 # Indoor Positioning System (IPS) based on RSSI
 
 This project implements a prototype for indoor localization using WiFi signal strength (RSSI). It is designed to address the challenges of positioning in environments where GPS signals are unreliable or unavailable.
